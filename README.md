@@ -4,6 +4,6 @@ my repository created in class.
 `future devops`
 ```github and jenkins```
 - [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [ x] Update the website
+- [x ] Contact the media
 - [ ] this below is the file that 
