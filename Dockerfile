@@ -5,3 +5,4 @@ RUN MKDIR APP
 WORKDIR APP
 RUN  app install -y ansible curl vim wget
 cmd ["bash"]
+run mother 
